@@ -65,5 +65,5 @@ The usage of different CSS units (% ,rem, em, vw, etc.) can be a bit overwhelmin
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@L4r4TW](https://www.frontendmentor.io/profile/L4r4TW)
 - Twitter - [@l4r4TW](https://www.twitter.com/l4r4TW)
